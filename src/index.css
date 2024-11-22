@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/**************************** Hero section ****************************/
+.hero { 
+  height: 90vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero__title {
+  background-color: #0AB3AF;
+  color: #FFF;
+  width: 50%;
+  height: 100%;
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 45px;
+  font-size: 2.5rem;
+}
+
+.hero__img {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero__img > img {
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+}
+
+/**************************** Grid section ****************************/
+.grid {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+/**************************** Grid section ****************************/
+.feature {
+  color: #FFF;
+  background-color: #0AB3AF;
+  padding: 10px 15px;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+/**************************** Instructions section ****************************/
+.instructions {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 100px;
+}
+
+.instructions__item {
+  width: 30%;
+  border: 1px solid hsla(0, 0%, 0%, 0.25);
+  border-radius: 5px;
+}
+
+.instructions__item p {
+  max-width: 330px;
+  margin-right: auto;
+  margin-left: auto;
+  line-height: 1.4;
+  opacity: 95%;
+  font-weight: lighter;
+}
+
+.instructions__item iframe {
+  width: 100%;
+}
+
+.instructions__item-padding {
+  padding: 10px;
+}
