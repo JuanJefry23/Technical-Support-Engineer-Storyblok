@@ -1,5 +1,5 @@
 
-# Storyblok quick starter project
+# Technical Support Engineer Storyblok
 
 Welcome to this sample project for React!
 This project serves as a quick starter for integrating Storyblok, a headless CMS, into your web development projects.
@@ -9,4 +9,9 @@ In the folder you have some files like:
 
 - `src/index.js`: the configuration with Storyblok API;
 - `src/App.js`: the initialization of the Storyblok Bridge.
+
+
+## LINK TO THE DEPLOYED PROJECT
+
+Link: https://technical-support-engineer-storyblok.netlify.app/
 
