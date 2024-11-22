@@ -1,14 +1,20 @@
 
-# Technical Support Engineer Storyblok
+# Technical Support Engineer Storyblok ![storyblok](https://github.com/user-attachments/assets/8e8c882b-d77e-4eff-b1d7-1757f36c019a)
 
-Welcome to this sample project for React!
-This project serves as a quick starter for integrating Storyblok, a headless CMS, into your web development projects.
+## What is Storyblok ?
+It is a Headless CMS, which provides you with the platform to deliver engaging content at scale and create a distinctive customer experience, ensuring it’s delivered to the right audience and optimized for every channel.
 
-For starting, you can access to the `Technical-Support-Engineer-Storybook-Website` folder.
-In the folder you have some files like:
+## Technologies on this project
 
-- `src/index.js`: the configuration with Storyblok API;
-- `src/App.js`: the initialization of the Storyblok Bridge.
+➡ Javascript
+
+➡ React
+
+➡ CSS
+
+➡ NPM
+
+➡ Storyblok CMS and API
 
 
 ## LINK TO THE DEPLOYED PROJECT
